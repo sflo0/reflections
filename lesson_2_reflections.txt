@@ -1,0 +1,5 @@
+when you initialize a repo it creates a hidden file called .git
+hidden files and folders begin with a .
+it makes an empty repository.
+
+staging area is the middle area before committing.  you put information in the staging area so you can leave notes and whatnot on it.
