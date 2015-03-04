@@ -1,0 +1,22 @@
+It is much easier to compare 2 files using diff or FC.  FC is windows based, ran in cmd prompt.
+it uses the naming scheme FC old_file.txt new_file.txt
+diff us mac/linux based, it can be run in git bash.  it uses the naming scheme:
+diff -u old_file.txt new_file.txt
+
+it will only be helpful if everything is on the same lines.
+
+multiple versions help us so we can compare what was sone, and what was changed
+
+choosing when to manually save/commit gives me the power.  i can save when i see fit, and allows me to make comments on what was changed since the last save.
+
+git allows you to add multiple files to a repo and commit/save them all at once.  this is helpful because
+may times you will be using multiple files when coding a project.
+
+command: git log - shows all commits in to the file.
+command: git diff ID1 ID2 - shows the differences between 2 specific instance id's
+
+by checking out commits i can see how the game worked in previous versions.  if a bug is introduced i can pinpoint
+where it happened.  this means if i accidently break something, i will be able to fix it with ease.
+
+i wanna use git do do become a better programmer.
+
