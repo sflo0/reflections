@@ -3,3 +3,10 @@ hidden files and folders begin with a .
 it makes an empty repository.
 
 staging area is the middle area before committing.  you put information in the staging area so you can leave notes and whatnot on it.
+
+staging area is useful because you can place one thing or multiple things at a time to ensure only one logical change is made per commit
+
+branched should be used when you want to try something out to make changes in your program, but would like to keep the current version in the state it is in.
+it also allows you to test things you may want to add at a later time
+
+branch diagrams help because they let you see where you are and how you can get to another commit.
